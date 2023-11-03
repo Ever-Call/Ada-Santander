@@ -3,3 +3,5 @@
 ...
 
 #Salvando modificações Git
+
+*Uso do comando restore
