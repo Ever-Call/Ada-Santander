@@ -1,7 +1,7 @@
-#Curso Digital: Git/Versionamento
+# Curso Digital: Git/Versionamento
 
 ...
 
-#Salvando modificações Git
+# Salvando modificações Git
 
-*Uso do comando restore
+* Uso do comando restore
