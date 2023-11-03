@@ -5,6 +5,6 @@
 # Salvando modificações Git
 
 * Uso do comando restore
-* Comando git push
-* comando git pull
-* comando git fetch
+* Comando git push origin/master
+* comando git pull 
+* comando git fetch origin/master
